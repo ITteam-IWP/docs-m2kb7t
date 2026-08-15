@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-d9t69c.salamkita.sbs/sitemap.xml
